@@ -29,6 +29,7 @@ INSTALLED_APPS = [
 
     #Custom apps
     'core',
+    'userauths',
 
 ]
 
