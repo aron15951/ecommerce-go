@@ -127,3 +127,5 @@ JAZZMIN_SETTINGS = {
     #'site_logo': "logo192.png",
     'site_copyright': "aron-shop.com",
 }
+
+AUTH_USER_MODEL = 'userauths.User'
